@@ -1,0 +1,7 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the field of Artificial Intelligence (AI). All types of Artificial Intelliegence relies
+on vast data sets. Having a large and diverse set of data for ai models to sample is important
+for improving AI models so that that they can function as they are intended to. For example, an AI model that detects and identifies different
+types of plants should have large data sets for all different of types of plants. It may needs photos of those plants in different stages of its
+life, as well as in all angles and lightning conditions in order for the plant to be properly identified by the model. 
