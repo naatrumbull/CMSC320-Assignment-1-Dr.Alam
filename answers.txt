@@ -23,3 +23,7 @@ to appear as if you made the branch from a different commit than you had. This i
 the base. Merging, on the other hand, is the processing of applying the contents of one branch to another. Usually, this is taking 
 the contents of a lower branch and moving them up to a higher branch. 
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills with analyzing large data sets using python tools such as pandas. I also hope to gain experience
+working with different APIs and understanding how to utilize their vast amounts of data. 
