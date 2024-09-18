@@ -1,0 +1,9 @@
+Q1: Why might be consider using git?
+
+Answer: Git helps its users to manage code and data changes and is particulary
+effective when working with a team. Git gives you the option to push code to a
+remote repository and serves a good way to back up code. Git also allows you to use
+branches which allows you add new elements to your code without the risk of messing up your
+functioning code. Using branches also allows you to create a version control system which lets
+you see the gradual development of your code as you wrote it.
+
