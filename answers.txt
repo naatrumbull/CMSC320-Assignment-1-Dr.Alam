@@ -14,3 +14,12 @@ on vast data sets. Having a large and diverse set of data for ai models to sampl
 for improving AI models so that that they can function as they are intended to. For example, an AI model that detects and identifies different
 types of plants should have large data sets for all different of types of plants. It may needs photos of those plants in different stages of its
 life, as well as in all angles and lightning conditions in order for the plant to be properly identified by the model. 
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Rebasing and merging both have to do with reorganizing branches. With rebasing, you are moving the base of your branches
+to appear as if you made the branch from a different commit than you had. This is done by creating new commits to the base and applying them to
+the base. Merging, on the other hand, is the processing of applying the contents of one branch to another. Usually, this is taking 
+the contents of a lower branch and moving them up to a higher branch. 
+
